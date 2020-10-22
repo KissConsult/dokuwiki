@@ -103,7 +103,7 @@ We will deploy Dokuwiki on our cluster
 
 * After finishing everything, **tick** the box next to the agreements and click **install**
 
-![Install](/install.png)
+![Install](/aggreement-create.png)
 
 * The DokuWiki workspace will start installing, wait a couple of minutes 
 
