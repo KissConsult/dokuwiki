@@ -77,10 +77,10 @@ We will deploy Dokuwiki on our cluster
 ![Joomla](/search.png)
 
 * Please select IBM Kubernetes Service
-![target](/select-target.png)
+![target](/target-select.png)
 
 * On the application page Click in the _dot_ next to the cluster, you wish to use
-![Cluster](/select-cluster.png)
+![Cluster](/cluster-select.png)
 * Click on  **Enter or Select Namespace** and choose the default Namespace or use a custom one 
 ![Namespace](/details-namespace.png)
 * Give a unique **name** to workspace, which you can easily recognize
